@@ -12,6 +12,6 @@ Extensions
  - memcache
  - redis
 
-newer memcached lib can be found here:
+newer/other memcached lib can be found here:
 https://github.com/majksner/php-memcached-mamp
 
